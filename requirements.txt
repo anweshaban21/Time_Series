@@ -1,0 +1,11 @@
+gluonts
+mxnet
+pandas
+pydantic
+tqdm
+toolz
+typing-extensions
+numpy
+matplotlib
+seaborn
+jupyter
